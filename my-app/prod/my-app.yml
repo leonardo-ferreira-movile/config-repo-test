@@ -2,4 +2,4 @@ my-prop: teste1
 
 health:
   config:
-    enabled: false
+    enabled: true
